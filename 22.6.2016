@@ -1,0 +1,7 @@
+Today Learning
+  1.how to push only one commit in github
+    using git rebase -i HEAD~<number of commit>
+    using git push origin <SHA number>:<branch-name>
+ 
+ 2.Answering in SO -get 124 reputation
+ 3.study sql union,sql select into
